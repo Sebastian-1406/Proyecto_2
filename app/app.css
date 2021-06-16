@@ -104,10 +104,6 @@
 .contenedor__contenido-parrafo{
     font-size: 14px;
 }
-.footer__imagen{
-    width: 100%;
-    vertical-align: middle;
-}
 
 .contenendor__imagen-top, .contenendor__imagen-button{
     width: 100%;
@@ -119,14 +115,11 @@
     font-weight: 900;
 }
 
-
-
-
-
 .footer__contenedor{
     background-color: hsl(192, 100%, 9%);
     padding: 2em;
     color: white;
+    margin-top: -1px;
 }
 .footer__contenedor-titulo{
     margin: 0.5em 0;
